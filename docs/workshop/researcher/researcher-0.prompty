@@ -52,4 +52,4 @@ Turkish,	tr-TR
 English,	en-US
 
 user:
-{{instructions}}
+instructions:Can you generate queries to find the latest camping trends and what folks are doing in the winter? Use \'en-ES\' as the market code.
